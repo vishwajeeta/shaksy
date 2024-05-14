@@ -1,0 +1,8 @@
+print('how are u')
+print('sak')
+print('kgjkgg')
+print('fghgjggjg')
+print('dshj')
+print('ghjglg')
+print ('fhjhhf')
+print('fjfhjf')
