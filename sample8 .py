@@ -1,0 +1,15 @@
+a=9
+b=94
+print('a==b')
+print(a==b)
+c=58
+d=897
+print(c==d)
+e=1
+f=1
+print(e==f)
+print(1==1)
+a=10
+b=10
+c=10
+print("result=",a==b==c)
