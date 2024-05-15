@@ -1,0 +1,23 @@
+list1=[]
+#print(list1)
+lis=[5647-7574,'hfkhfgh','guuu','huhuu','ghyu']
+list1=list1+lis
+#list1.append(lis)
+#print(list1)
+list2=[]
+#print(list2)
+list2.append(8786+77)
+print(list2)
+print(list1)
+list1.pop()
+print(list1)
+list1.pop(2)
+print(list1)
+
+list3=['ffio','fifi','jfkjf','jgi']
+print(list3)
+list3=list3+['ffio']
+print(list3
+      )
+list4=['6868+345','trgt','tuit',]
+print(list4)
